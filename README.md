@@ -5,7 +5,7 @@
 ###
 I'm an Aspiring Cybersecurity Analyst with a knack for problem-solving and strong communication skills. I’m passionate about Network Security, Threat Intelligence, and Risk Assessment. With numerous certifications and projects, I'm always eager to learn and stay up-to-date with the latest industry practices.
 
-I thrive on analyzing complex issues and crafting effective solutions, and I believe clear communication is key to successful collaboration with colleagues and clients. On this page, you'll find projects and certifications and a bunch of other stuff that showcases my journey into the Programming, IT, and Cybersecurity landscapes.
+I thrive on analyzing complex issues and crafting effective solutions, and I believe clear communication is key to successful collaboration with colleagues and clients. On this page, you'll find projects, certifications, and a bunch of other stuff that showcases my journey into the Programming, IT, and Cybersecurity landscapes.
 
 I'm excited to contribute to the industry and make a positive impact. Feel free to explore my projects and reach out if you'd like to connect or collaborate!
 
