@@ -25,7 +25,7 @@ I'm excited to contribute to the industry and make a positive impact. Feel free 
 
 ## 📺 Project Video Demos:
 
-- [Azure Sentinel SIEM Implementation for Global Attack Data Visualization](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Azure Sentinel SIEM Implementation for Global Attack Data Visualization]()
 
 ## 🤳 Connect with me:
 
