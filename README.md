@@ -12,7 +12,7 @@ I'm excited to contribute to the industry and make a positive impact. Feel free 
 ## 👨‍💻 Cybersecurity Projects:
 
 - [Azure Sentinel SIEM Implementation for Global Attack Data Visualization](https://github.com/aaqib27/LABURL)
-- [Active Directory Administration and Automation Lab](https://github.com/aaqib27/LABURL)
+- [Active Directory Administration and Automation Lab](https://github.com/aaqib27/ActiveDirectoryLab)
 
 ## 📜 Certifications:
 
