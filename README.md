@@ -21,7 +21,7 @@ I'm excited to contribute to the industry and make a positive impact. Feel free 
 - [Fortinet Certified Fundamentals in Cybersecurity](https://acrobat.adobe.com/id/urn:aaid:sc:AP:9cb7de81-2de8-4f35-865b-4f3154887f5d)
 - [Fortinet Network Security Expert Level 2](https://acrobat.adobe.com/id/urn:aaid:sc:ap:ed6f778d-4c57-4e01-baeb-ccbcafdbcdfd)
 - [Fortinet Network Security Expert Level 1](https://acrobat.adobe.com/id/urn:aaid:sc:ap:46873af8-1ee4-4f11-929a-502f671ff29d)
-- [Introduction to Cybersecurity (Cisco Networking Academy)](https://acrobat.adobe.com/id/urn:aaid:sc:AP:e311f40e-7a8c-4ae8-b35e-c8919b8e983f?viewer%21megaVerb=group-discover)
+- [Introduction to Cybersecurity (Cisco Networking Academy)](https://acrobat.adobe.com/id/urn:aaid:sc:AP:e311f40e-7a8c-4ae8-b35e-c8919b8e983f)
 
 ## 📺 Project Video Demos:
 
@@ -34,7 +34,7 @@ I'm excited to contribute to the industry and make a positive impact. Feel free 
 [<img align="left" alt="Aaqib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aaqib | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/aaqib27
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/aaqib27/
+[twitter]: https://github.com/aaqib27
+[youtube]: https://github.com/aaqib27
+[instagram]: https://github.com/aaqib27
 [linkedin]: https://linkedin.com/in/aaqib27
