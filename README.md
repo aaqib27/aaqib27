@@ -1,9 +1,9 @@
 # Hey there, I'm Aaqib!
 
-**Programmer | Aspiring Cybersecurity Analyst and Ethical Hacker**
+**Programmer | Cybersecurity Analyst and Ethical Hacker**
 
 ###
-I'm an Aspiring Cybersecurity Analyst with a knack for problem-solving and strong communication skills. I’m passionate about Network Security, Threat Intelligence, and Risk Assessment. With numerous certifications and projects, I'm always eager to learn and stay up-to-date with the latest industry practices.
+I'm a Cybersecurity Analyst with a knack for problem-solving and strong communication skills. I’m passionate about Network Security, Threat Intelligence, and Risk Assessment. With numerous certifications and projects, I'm always eager to learn and stay up-to-date with the latest industry practices.
 
 I thrive on analyzing complex issues and crafting effective solutions, and I believe clear communication is key to successful collaboration with colleagues and clients. On this page, you'll find projects, certifications, and a bunch of other stuff that showcases my journey into the Programming, IT, and Cybersecurity landscapes.
 
