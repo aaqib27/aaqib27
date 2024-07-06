@@ -22,7 +22,7 @@ I'm excited to contribute to the industry and make a positive impact. Feel free 
 # <img src="https://i.imgur.com/79AJwzJ.gif" width=40 /> Certifications:
 
 <div>
-  <img src="https://i.imgur.com/Bi233sa.png" align="right" height="250">
+  <img src="https://i.imgur.com/Bi233sa.png" align="right" height="220">
   <table>
     <thead>
       <tr>
